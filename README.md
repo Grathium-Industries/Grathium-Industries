@@ -6,3 +6,5 @@ To request the creation a new collaborative project/repository, please email us 
 Every pull request is reviewed and appreciated (no matter how small).
 
 Good luck and have fun publishing to the Global Development Initiative!😄🌱
+
+Working With: JavaScript, Typescript, CoffeeScript, HTML, CSS, Python, Ruby, Go, C, C++, C#, VB.net, F# & Bash
